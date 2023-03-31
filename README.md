@@ -1,2 +1,2 @@
 # Breast-Cancer-prediction
-It is a project which basically which works on the Logistic regression.
+This predicts brest cancer.It works on the Logistic regression.
